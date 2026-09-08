@@ -1,0 +1,10 @@
+# Booking PDFs contain personal data (passport, PNR, payment info)
+*.pdf
+
+# macOS
+.DS_Store
+
+# Editor cruft
+.vscode/
+.idea/
+*.swp
